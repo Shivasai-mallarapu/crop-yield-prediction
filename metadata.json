@@ -1,0 +1,5 @@
+{
+  "name": "Crop Yield Prediction using ML",
+  "description": "A production-ready agricultural prediction platform using machine learning to forecast crop yields based on environmental factors like temperature, rainfall, and area.",
+  "requestFramePermissions": []
+}
